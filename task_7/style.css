@@ -1,0 +1,35 @@
+.task {
+  text-align: center;
+}
+
+.input_field {
+  display: inline-flex;
+}
+
+input {
+  width: 500px;
+  height: 100px;
+  text-align: center;
+  background-color: tan;
+}
+
+button {
+  margin: 20px 680px;
+  font-size: medium;
+  cursor: pointer;
+}
+
+.table_container {
+  border: solid black;
+  text-align: center;
+  margin: 10px 510px;
+  width: 500px;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+}
+li {
+  padding: 0 15px;
+}

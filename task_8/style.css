@@ -1,0 +1,33 @@
+.heading {
+  text-align: center;
+}
+.conteiner {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.page {
+  margin: 10px 10px 10px 50px;
+}
+
+.limit {
+  margin: 0px 20px 20px -30px;
+}
+
+.btn {
+  width: 100px;
+  height: 30px;
+  background-color: rgb(28, 238, 140);
+  cursor: pointer;
+  color: white;
+  text-decoration: none;
+  border-radius: 3px;
+  box-shadow: 0 -3px rgb(53, 167, 110) inset;
+}
+
+.btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+.btn:active {
+  background: rgb(82, 128, 14);
+}
